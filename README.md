@@ -1,7 +1,7 @@
 🌲 Mežu tipi
 Saturs
 Par projektu
-Kas ir mežs?
+Kas ir mežs? 
 Galvenie mežu tipi
 No kā ir atkarīgs meža tips?
 Meža augi un dzīvnieki
