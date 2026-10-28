@@ -1,1 +1,1 @@
-# Pd1
+Aleksejs Reinicāns, Arina Tapute, Timurs Morozovs
